@@ -1,0 +1,10 @@
+Device Specific Changes:
+Lenovo A6000|Maintainer: xuser
+
+===================
+  crDroidAndroid -- November 18, 2017
+==============
+
+* Fixed crDroidOTA
+* Rom Changelog
+* Rom Stable
