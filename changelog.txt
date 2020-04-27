@@ -6,5 +6,8 @@ Lenovo A6000|Maintainer: xuser
 ==============
 
 * Fixed crDroidOTA
-* Rom Changelog
+* Update build.prop
+* Update Dialer/ system app 
+* Update Contacts/ system app
+* Update Gboard/ system app
 * Rom Stable
