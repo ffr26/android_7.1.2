@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-
-        <!-- LENOVO -->
+	    
 	<a6000>
             <Filename>crDroidAndroid-7.1.2-a6000</Filename>
             <RomUrl
@@ -12,15 +11,11 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://raw.githubusercontent.com/crdroid-devices/android_vendor_crDroidOTA/7.1/changelog_kuntao.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/ffr26/android_7.1.2/master/changelog.txt</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
                 description="Download latest Open GApps">http://opengapps.org/</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Forum">https://forum.xda-developers.com/lenovo-p2/development/rom-crdroid-android-v3-8-t3689877</XDAUrl>
         </a6000>
 
      </Stable>
